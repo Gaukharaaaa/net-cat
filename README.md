@@ -1,6 +1,6 @@
 # net-cat
 
-## Authors : @ggrks, @DiasOrazbayev
+## Authors : @Gaukharaaaa
 
 ---
 
